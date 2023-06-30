@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">GenshinArtifactInfo</string>
+
+    <!--    menu-->
+    <string name="about_page">About</string>
+    <string name="action_share">Share</string>
+
+    <!--    nama-->
+    <string name="artifacts_name">Artifact Name</string>
+    <string name="description">Description</string>
+    <string name="profile_name">Farrell Liko Tanlimhuijaya</string>
+    <string name="profile_email">a225dsx1678@bangkit.academy</string>
+    <string name="button_back_to_main">Back to Main Activity</string>
+
+    <!--    splash screen-->
+    <string name="tv_splash_screen">Genshin Artifact Info</string>
+
+    <!--    nama artifacts-->
+    <string-array name="data_name">
+        <item>Archaic Petra</item>
+        <item>Blizzard Strayer</item>
+        <item>Crimson Witch of Flames</item>
+        <item>Deepwood Memories</item>
+        <item>Emblem of Severed Fate</item>
+        <item>Gilded Dreams</item>
+        <item>Heart of Depth</item>
+        <item>Noblesse Oblige</item>
+        <item>Tenacity of the Millelith</item>
+        <item>Viridescent Venerer</item>
+    </string-array>
+
+    <!--    isi deskripsi-->
+    <string-array name="data_description">
+        <item>
+            2-Piece Bonus:
+            \nGain a 15% Geo DMG Bonus.
+            \n\n4-Piece Bonus:
+            \nUpon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nCryo DMG Bonus +15%.
+            \n\n4-Piece Bonus:
+            \nWhen a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nPyro DMG Bonus +15%.
+            \n\n4-Piece Bonus:
+            \nIncreases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nDendro DMG Bonus +15%.
+            \n\n4-Piece Bonus:
+            \nAfter Elemental Skills or Bursts hit opponents, the target\'s Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nEnergy Recharge +20%.
+            \n\n4-Piece Bonus:
+            \nIncreases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nElemental Mastery +80.
+            \n\n4-Piece Bonus:
+            \nWithin 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members, ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nHydro DMG Bonus +15%.
+            \n\n4-Piece Bonus:
+            \nAfter using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nElemental Burst DMG +20%.
+            \n\n4-Piece Bonus:
+            \nUsing an Elemental Burst increase all party member\'s ATK by 20% for 12s. This effect cannot stack.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nHP +20%.
+            \n\n4-Piece Bonus:
+            \nWhen an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+        </item>
+        <item>
+            2-Piece Bonus:
+            \nGain a 15% Anemo DMG Bonus.
+            \n\n4-Piece Bonus:
+            \nIncreases Swirl DMG by 60%. Decreases opponent\'s Elemental RES to the element infused in the Swirl by 40% for 10s.
+        </item>
+    </string-array>
+
+    <!--    buat gambar-->
+    <integer-array name="data_photo">-->
+        <item>@drawable/archaic_petra</item>
+        <item>@drawable/blizzard_strayer</item>
+        <item>@drawable/crimson_witch_of_flames</item>
+        <item>@drawable/deepwood_memories</item>
+        <item>@drawable/emblem_of_severed_fate</item>
+        <item>@drawable/gilded_dreams</item>
+        <item>@drawable/heart_of_depth</item>
+        <item>@drawable/noblesse_oblige</item>
+        <item>@drawable/tenacity_of_the_millelith</item>
+        <item>@drawable/viridescent_venerer</item>
+    </integer-array>
+</resources>
